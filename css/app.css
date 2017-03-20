@@ -1,8 +1,8 @@
 .row{
-  /*border: 1px solid peru;*/
+  border: 1px solid peru;
 }
 #banner-contenedor{
-  height: 25rem;
+  height: 27rem;
 }
 
 
@@ -62,3 +62,16 @@
 
 
 
+#titulo-contenedor{
+     
+      
+
+}
+
+.titulo{
+    background: rgba(255, 255, 255, 0.85);
+}
+
+#detalle-contenedor{
+  height: 10rem;
+}
